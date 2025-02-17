@@ -15,4 +15,4 @@ You can't change the skill level once you have typed a word into the game, so ch
 
 I'm not an software person, just an old, mad engineer who likes to create what I want - so the code/script needs a lot of work to make it into a real app - so if you copy it and place it on the App Store expect a lot of angry customers.  Feel free to copy it, just remember you need to fix the not-so-hidden bugs. 
 
-There are no comments and the variable names I used ewere made up on the spot, so it's confusing even for me to work out what my old brain was thinking when I wrote it. 
+There are no comments to help you understand this randomness, the variable names were made up on the spot; so it's confusing even for me to work out what my old brain was thinking when I wrote it. Good luck trying to decode it - unless of course you are a genius!!
