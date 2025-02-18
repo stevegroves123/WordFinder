@@ -9,10 +9,12 @@ You have 120 seconds to find as many words as you can, the app uses Apple's dict
 
 The score is a sum of all the letters used, so the longer words score more; although lots of three letter words also gives you a good score.
 
-There are three high scores, one for each of the "skill levels" (3 letter, 4 letter and 5 letter)
+There are three high scores, saved with AppStorage, one for each of the "skill levels" (3 letter, 4 letter and 5 letter)
 
 You can't change the skill level once you have typed a word into the game, so choose which level you start with carefully.
 
 I'm not an software person, just an old, mad engineer who likes to create what I want - so the code/script needs a lot of work to make it into a real app - so if you copy it and place it on the App Store expect a lot of angry customers.  Feel free to copy it, just remember you need to fix the not-so-hidden bugs. 
 
 There are no comments to help you understand this randomness, the variable names were made up on the spot; so it's confusing even for me to work out what my old brain was thinking when I wrote it. Good luck trying to decode it - unless of course you are a genius!!
+
+The game does not track anything, it does not need wifi, there are no adverts or in app purchases; its just a simple game to use up your time. 
